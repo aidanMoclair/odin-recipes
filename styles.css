@@ -3,33 +3,54 @@ body{
 }
 .menu {
     font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
 }
 
 a:link {
-    color: white;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 a:visited {
-    color: grey;
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1{
     font-size: 75px;
+    font-family: georgia, "times New Roman", sans-serif;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 h2 {
     font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 20px;
     margin-bottom: 10px;
 }
 
 p {
     font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 ul, ol {
     font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 750px;
+    height: auto;
+
 }
