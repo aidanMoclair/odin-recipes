@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(172, 219, 235);
+}
+.menu {
+    font-size: larger;
+    color: white;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: grey;
+}
+
+h1{
+    font-size: 75px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
